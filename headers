@@ -1,0 +1,15 @@
+{
+    'Accept': 'application/json, text/plain, */*',
+    'Accept-Language': 'en-US,en;q=0.9,ru-RU;q=0.8,ru;q=0.7,ja-JP;q=0.6,ja;q=0.5',
+    'Connection': 'keep-alive',
+    'Content-Type': 'application/json',
+    'Origin': 'https://ticket.rzd.ru',
+    'Referer': 'https://ticket.rzd.ru/searchresults/v/1/5a323c29340c7441a0a556bb/5a13ba89340c745ca1e7ebbe/2023-06-12',
+    'Sec-Fetch-Dest': 'empty',
+    'Sec-Fetch-Mode': 'cors',
+    'Sec-Fetch-Site': 'same-origin',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.2 (KHTML, like Gecko) Chrome/22.0.1216.0 Safari/537.2',
+    'sec-ch-ua': '".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-platform': '"Linux"',
+}
